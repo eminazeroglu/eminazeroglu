@@ -1,16 +1,59 @@
-### Hi there 👋
+![enter image description here](https://scontent.fgyd12-1.fna.fbcdn.net/v/t39.30808-6/241136745_4006011769528143_7194171781542153079_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=hrWsva4njL8AX9H5Sd6&_nc_oc=AQk3aR_QSCDX5iETr2kS6SDvsUN_0npdbKh0-SSYBgxXzFx9E3sQlshdZ3_ocDvVwVQ&tn=KRyTkoie5r5jaaP8&_nc_ht=scontent.fgyd12-1.fna&oh=d67146302383d41df909fe59b0a3063e&oe=61331262)
+# Haqqımda
+1992-ci ildə Tovuzda doğuldum. 2010-cu ildən etibarən Bakıda yaşayıram. Öz ixtisasım proqramlaşdırma olmasada bu sahəni çox sevirəm. Proqramlaşdırmaya hobbi olaraq başlasamda artıq 5 ildən çoxdur ki, bu sahədə işləyirəm. İstər front end olaraq istərsədə back end olaraq bir çox layihədə iştirak etdim, bir çox layihədə də aparıcı proqramcı olaraq çalışdım. Öyrənməyi və öyrətməyi çox sevirəm. Bir neçə özəl kursda da web proqramlaşdırma üzrə təlimci olaraq çalışmışam.
 
-<!--
-**eminazeroglu/eminazeroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.facebook.com/e.azeroglu/"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href="https://www.linkedin.com/in/emin-azeroglu/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@azeroglu.emin"><img height="30" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> <a href="https://t.me/azerogluemin"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://wa.me/994507132303"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-Here are some ideas to get you started:
+# Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eminazeroglu&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=eminazeroglu&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+# İş təcrübəsi
+
+<ul>
+<li>Senior Web Developer / VABISS MMC  (Sen 2020 - Bugun) </li>
+<li>Full Stack developer / ARİS MMC  (Aprel 2019 - Sen 2020) </li>
+<li>Front end developer / Voida International  (Dek 2017 - Fev 2018) </li>
+<li>Back end developer / Media Türk  (Noy 2016 - Noy 2017)</li>
+<li>Full Stack developer / Freelance  (Sen 2015 - Okt 2016)</li>
+</ul>
+
+# Layihələr
+
+- [GoJob.Az](https://gojob.az/)
+- [Glorri.Com](https://glorri.com/)
+- [Emlaksat.Az](https://emlaksat.az/)
+- [Emlakal.Az](https://emlakal.az/)
+- [MIT.Az](https://mit.az/)
+- [AngelinGiftBox.Com](https://angelingiftbox.com/)
+- [MAM.Az](https://mam.az/)
+- [ZuniSport.Com](https://zunisport.com/)
+- [İzləQazan.Az](http://www.izleqazan.az/)
+- [FotoPriz.Az](https://fotopriz.az/login.html)
+- [Autolux.Az](https://avtolux.az/)
+- [DobromedKlinika.Az](http://dobromed.az/)
+- [VoidaInternational.Com](http://www.voidaint.com/)
+- [ProjobList.com](https://projoblist.com/)
+- [Molecion.Az](https://molecion.az/)
+- [CRES.Az](https://cres.az/)
+- [PortalGames.Az](https://www.portalgames.az/)
+- [SenedTap.Az](https://senedtap.az/)
+- [Nevarneyox.Az](https://nevarneyox.com/)
+
+# Bacarıqlar
+
+### Front End
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+
+### Back End
+
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+### IDEs/Editors
+
+<img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"> 
+
+### Version Control
+
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"> 
