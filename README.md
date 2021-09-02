@@ -19,26 +19,41 @@
 </ul>
 
 # Layihələr
+<a href="https://gojob.az/" target="_blank">GoJob.Az</a> / Full Stack Developer
 
-- [GoJob.Az](https://gojob.az/)
-- [Glorri.Com](https://glorri.com/)
-- [Emlaksat.Az](https://emlaksat.az/)
-- [Emlakal.Az](https://emlakal.az/)
-- [MIT.Az](https://mit.az/)
-- [AngelinGiftBox.Com](https://angelingiftbox.com/)
-- [MAM.Az](https://mam.az/)
-- [ZuniSport.Com](https://zunisport.com/)
-- [İzləQazan.Az](http://www.izleqazan.az/)
-- [FotoPriz.Az](https://fotopriz.az/login.html)
-- [Autolux.Az](https://avtolux.az/)
-- [DobromedKlinika.Az](http://dobromed.az/)
-- [VoidaInternational.Com](http://www.voidaint.com/)
-- [ProjobList.com](https://projoblist.com/)
-- [Molecion.Az](https://molecion.az/)
-- [CRES.Az](https://cres.az/)
-- [PortalGames.Az](https://www.portalgames.az/)
-- [SenedTap.Az](https://senedtap.az/)
-- [Nevarneyox.Az](https://nevarneyox.com/)
+<a href="https://glorri.com" target="_blank">Glorri.Com</a> / Front End Developer
+
+<a href="https://emlaksat.az/" target="_blank">Emlaksat.Az</a> / Full Stack Developer
+
+<a href="https://emlakal.az/" target="_blank">Emlakal.Az</a> / Full Stack Developer
+
+<a href="https://mit.az/" target="_blank">MIT.Az</a> / Full Stack Developer
+
+<a href="https://angelingiftbox.com/" target="_blank">AngelinGiftBox.Com</a> / Full Stack Developer
+
+<a href="https://zunisport.com/" target="_blank">ZuniSport.Com</a> / Front End Developer
+
+<a href="http://www.izleqazan.az/" target="_blank">İzləQazan.Az</a> / Front End Developer
+
+<a href="https://fotopriz.az/" target="_blank">FotoPriz.Az</a> / Front End Developer
+
+<a href="https://avtolux.az/" target="_blank">Autolux.Az</a> / Full Stack Developer
+
+<a href="http://dobromed.az/" target="_blank">DobromedKlinika.Az</a> / Full Stack Developer
+
+<a href="http://www.voidaint.com/" target="_blank">VoidaInternational.Com</a> / Front End Developer
+
+<a href="https://projoblist.com/" target="_blank">ProjobList.com</a> / Full Stack Developer
+
+<a href="https://molecion.az/" target="_blank">Molecion.Az</a> / Full Stack Developer
+
+<a href="https://cres.az/" target="_blank">CRES.Az</a> / Full Stack Developer
+
+<a href="https://www.portalgames.az/" target="_blank">PortalGames.Az</a> / Full Stack Developer
+
+<a href="https://senedtap.az/" target="_blank">SenedTap.Az</a> / Full Stack Developer
+
+<a href="https://nevarneyox.com/" target="_blank">Nevarneyox.Az</a> / Full Stack Developer
 
 # Bacarıqlar
 
