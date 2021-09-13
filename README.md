@@ -1,4 +1,4 @@
-![enter image description here](https://scontent.fgyd12-1.fna.fbcdn.net/v/t39.30808-6/241136745_4006011769528143_7194171781542153079_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=hrWsva4njL8AX9H5Sd6&_nc_oc=AQk3aR_QSCDX5iETr2kS6SDvsUN_0npdbKh0-SSYBgxXzFx9E3sQlshdZ3_ocDvVwVQ&tn=KRyTkoie5r5jaaP8&_nc_ht=scontent.fgyd12-1.fna&oh=d67146302383d41df909fe59b0a3063e&oe=61331262)
+![enter image description here](https://azerogluemin.com/uploads/photos/setting/110228.jpg)
 # Haqqımda
 1992-ci ildə Tovuzda doğuldum. 2010-cu ildən etibarən Bakıda yaşayıram. Öz ixtisasım proqramlaşdırma olmasada bu sahəni çox sevirəm. Proqramlaşdırmaya hobbi olaraq başlasamda artıq 5 ildən çoxdur ki, bu sahədə işləyirəm. İstər front end olaraq istərsədə back end olaraq bir çox layihədə iştirak etdim, bir çox layihədə də aparıcı proqramcı olaraq çalışdım. Öyrənməyi və öyrətməyi çox sevirəm. Bir neçə özəl kursda da web proqramlaşdırma üzrə təlimci olaraq çalışmışam.
 
@@ -20,46 +20,29 @@
 
 # Layihələr
 <a href="https://gojob.az/" target="_blank">GoJob.Az</a> / Full Stack Developer
-
 <a href="https://glorri.com" target="_blank">Glorri.Com</a> / Front End Developer
-
 <a href="https://emlaksat.az/" target="_blank">Emlaksat.Az</a> / Full Stack Developer
-
 <a href="https://emlakal.az/" target="_blank">Emlakal.Az</a> / Full Stack Developer
-
 <a href="https://mit.az/" target="_blank">MIT.Az</a> / Full Stack Developer
-
 <a href="https://angelingiftbox.com/" target="_blank">AngelinGiftBox.Com</a> / Full Stack Developer
-
 <a href="https://zunisport.com/" target="_blank">ZuniSport.Com</a> / Front End Developer
-
 <a href="http://www.izleqazan.az/" target="_blank">İzləQazan.Az</a> / Front End Developer
-
 <a href="https://fotopriz.az/" target="_blank">FotoPriz.Az</a> / Front End Developer
-
 <a href="https://avtolux.az/" target="_blank">Autolux.Az</a> / Full Stack Developer
-
 <a href="http://dobromed.az/" target="_blank">DobromedKlinika.Az</a> / Full Stack Developer
-
 <a href="http://www.voidaint.com/" target="_blank">VoidaInternational.Com</a> / Front End Developer
-
 <a href="https://projoblist.com/" target="_blank">ProjobList.com</a> / Full Stack Developer
-
 <a href="https://molecion.az/" target="_blank">Molecion.Az</a> / Full Stack Developer
-
 <a href="https://cres.az/" target="_blank">CRES.Az</a> / Full Stack Developer
-
 <a href="https://www.portalgames.az/" target="_blank">PortalGames.Az</a> / Full Stack Developer
-
 <a href="https://senedtap.az/" target="_blank">SenedTap.Az</a> / Full Stack Developer
-
 <a href="https://nevarneyox.com/" target="_blank">Nevarneyox.Az</a> / Full Stack Developer
 
 # Bacarıqlar
 
 ### Front End
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 
 ### Back End
 
