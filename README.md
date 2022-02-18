@@ -1,4 +1,4 @@
-![enter image description here](https://azerogluemin.com/uploads/photos/setting/110228.jpg)
+![enter image description here](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80)
 # Haqqımda
 1992-ci ildə Tovuzda doğuldum. 2010-cu ildən etibarən Bakıda yaşayıram. Öz ixtisasım proqramlaşdırma olmasada bu sahəni çox sevirəm. Proqramlaşdırmaya hobbi olaraq başlasamda artıq 5 ildən çoxdur ki, bu sahədə işləyirəm. İstər front end olaraq istərsədə back end olaraq bir çox layihədə iştirak etdim, bir çox layihədə də aparıcı proqramcı olaraq çalışdım. Öyrənməyi və öyrətməyi çox sevirəm. Bir neçə özəl kursda da web proqramlaşdırma üzrə təlimci olaraq çalışmışam.
 
