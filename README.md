@@ -11,11 +11,11 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 # Experience
 
 <ul>
-<li>Senior Web Developer / VABISS MMC  (Sen 2020 - Bugun) </li>
-<li>Full Stack developer / ARİS MMC  (Aprel 2019 - Sen 2020) </li>
-<li>Front end developer / Voida International  (Dek 2017 - Fev 2018) </li>
-<li>Back end developer / Media Türk  (Noy 2016 - Noy 2017)</li>
-<li>Full Stack developer / Freelance  (Sen 2015 - Okt 2016)</li>
+<li>Senior Web Developer / VABISS MMC  (Sep 2020 - Today) </li>
+<li>Full Stack developer / ARİS MMC  (Apr 2019 - Sep 2020) </li>
+<li>Front end developer / Voida International  (Dec 2017 - Feb 2018) </li>
+<li>Back end developer / Media Türk  (Nov 2016 - Nov 2017)</li>
+<li>Full Stack developer / Freelance  (Sep 2015 - Oct 2016)</li>
 </ul>
 
 # Projects
@@ -38,7 +38,7 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 <a href="https://senedtap.az/" target="_blank">SenedTap.Az</a> / Full Stack Developer <br/>
 <a href="https://nevarneyox.com/" target="_blank">Nevarneyox.Az</a> / Full Stack Developer
 
-# Bacarıqlar
+# Skills
 
 ### Front End
 
